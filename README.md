@@ -34,7 +34,7 @@
 
 
 [twitter]: https://twitter.com/19xtech
-[youtube]: https://www.youtube.com/c/joshmadakor
+[youtube]: https://www.youtube.com/@xtechechnologies
 [linkedin]: https://www.linkedin.com/in/nakia-muhammad-champion/
 
 <!--
