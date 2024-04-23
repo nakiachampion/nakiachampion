@@ -1,4 +1,4 @@
-<h1>Welcome to my passion... <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
+<h1>Welcome to my passion... <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -36,7 +36,7 @@
 [twitter]: https://twitter.com/19xtech
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[linkedin]: https://www.linkedin.com/in/nakia-muhammad-champion/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
