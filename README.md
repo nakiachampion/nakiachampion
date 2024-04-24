@@ -1,4 +1,5 @@
-<h1>Welcome to my passion... <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
+<h1>Welcome to my passion... ![Example Image](images/example.jpg)
+  <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
 
 <h2>🔭 I’m currently working on ...</h2> 
 
