@@ -14,7 +14,7 @@
 </head>
 <body>
   <div class="centered-image">
-    <img src="<blockquote class="imgur-embed-pub" lang="en" data-id="a/uLT415B"  ><a href="//imgur.com/a/uLT415B">XTech Logo</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>">
+    <img src="<blockquote class="imgur-embed-pub"lang="en"data-id="a/uLT415B">ahref="//imgur.com/a/uLT415B">XTechLogo</a></blockquote><scriptasyncsrc="//s.imgur.com/min/embed.js"charset="utf-8"></script>">"
   </div>
 </body>
 </html>
