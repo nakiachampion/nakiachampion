@@ -1,4 +1,4 @@
-<h1>Welcome to my passion... ![Alt Text](url_to_your_image)
+<h1>Welcome to my passion... ![Alt Text](XTech Logo.jpg)
   <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
 
 <h2>🔭 I’m currently working on ...</h2> 
