@@ -1,4 +1,27 @@
-<h1>Welcome to my passion... ![Logo](XTech Logo.jpg)
+<h1>Welcome to my passion... <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    .centered-image {
+      display: block;
+      margin: 0 auto;
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div class="centered-image">
+    <img src="https://imgur.com/a/uLT415B">
+  </div>
+</body>
+</html>
+
+
+
+https://imgur.com/a/uLT415B
 
   <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
 
