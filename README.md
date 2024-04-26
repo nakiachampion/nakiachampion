@@ -1,4 +1,4 @@
-<h1>Welcome to my passion... ![Logo](path_to_your_image/logo.jpeg)
+<h1>Welcome to my passion... ![Logo]([path_to_your_image/logo.jpeg](https://github.com/nakiachampion/images/blob/a484793deaf8b952e75a1e0883258f16923acc73/XTech%20Logo.jpg))
 
   <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
 
