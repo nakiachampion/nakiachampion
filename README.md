@@ -53,7 +53,7 @@ https://imgur.com/a/uLT415B
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-- <h2>🔭 Community Advocacy/Volunteerism</h2>
+<h2>🔭 Community Advocacy/Volunteerism</h2>
 
 <h2>🔭 Certifications</h2>
 
