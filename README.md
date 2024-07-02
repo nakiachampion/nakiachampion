@@ -34,7 +34,7 @@
 <h2>🔭 Community Advocacy/Volunteerism</h2>
 
 <h2>🔭 Certifications</h2>
-- [CompTIA CSIE+ Transcript Verification)](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=GX13SVBC1FQ1CYYB)
+- <a href="www.certmetrics.com/comptia/public/transcript.aspx?transcript=GX13SVBC1FQ1CYYB">CompTIA Secure Infrastructure Expert (CSIE+) Verification Link</a>
 
 <h2> 🤳 Connect with me:</h2>
 
