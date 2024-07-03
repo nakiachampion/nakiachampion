@@ -1,4 +1,5 @@
-<h1>Welcome to my passion...</h1>
+<h1>Welcome to my passion... <!DOCTYPE html>
+<html lang="en">
 
   <a href="https://www.linkedin.com/in/nakia-muhammad-champion/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/@xtechechnologies">YouTuber</a></h1>
 
@@ -33,7 +34,7 @@
 <h2>🔭 Community Advocacy/Volunteerism</h2>
 
 <h2>🔭 Certifications</h2>
-- <a href="www.certmetrics.com/comptia/public/transcript.aspx?transcript=GX13SVBC1FQ1CYYB"[CompTIA Secure Infrastructure Expert (CSIE+) Verification Link]</a>
+- <a href="www.certmetrics.com/comptia/public/transcript.aspx?transcript=GX13SVBC1FQ1CYYB">[CompTIA Secure Infrastructure Expert (CSIE+) Verification Link]</a>
 
 <h2> 🤳 Connect with me:</h2>
 
